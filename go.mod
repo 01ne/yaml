@@ -1,5 +1,7 @@
-module "gopkg.in/yaml.v3"
+module "github.com/01ne/yaml"
+
+go 1.18
 
 require (
-	"gopkg.in/check.v1" v0.0.0-20161208181325-20d25e280405
+	"github.com/01ne/check" v1.0.2
 )

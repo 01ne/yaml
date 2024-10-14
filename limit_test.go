@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	. "gopkg.in/check.v1"
+	. "github.com/01ne/check"
 	"gopkg.in/yaml.v3"
 )
 

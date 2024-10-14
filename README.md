@@ -40,8 +40,7 @@ The import path for the package is *gopkg.in/yaml.v3*.
 
 To install it, run:
 
-    go get gopkg.in/yaml.v3
-
+    go get github.com/01ne/yaml
 API documentation
 -----------------
 

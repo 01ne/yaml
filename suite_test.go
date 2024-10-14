@@ -16,7 +16,7 @@
 package yaml_test
 
 import (
-	. "gopkg.in/check.v1"
+	. "github.com/01ne/check"
 	"testing"
 )
 
